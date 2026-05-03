@@ -1,4 +1,4 @@
-# YTPlusM
+# YTPlusM DIY 5.2b4
 A fork of an incredible enhancer for YouTube on iOS, featuring over hundred customizable options with more tweaks than the original <a href="https://github.com/dayanch96/YTLite">YouTube Plus.</a>
 
 <strong>Pre-built IPAs updates will be published in 5-48 hours (variable)</strong>
